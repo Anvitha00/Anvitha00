@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anvitha00
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently 2nd year graduate doing my bachelors in computer science specializing in artificial intelligence and machine learning
+- 🌱 I’m currently 3rd year graduate doing my bachelors in computer science specializing in artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on projects related to c or data structures or python
 - 📫 You can reach me through my mail or github profile
 
